@@ -2,8 +2,6 @@
 
 XSS payloads
 
----
-
 - `origin.js`
 
 - `minified.js`
