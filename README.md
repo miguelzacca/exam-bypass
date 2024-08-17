@@ -1,3 +1,11 @@
 ## Exam Bypass
 
-- XSS payload
+XSS payloads
+
+---
+
+- `origin.js`
+
+- `minified.js`
+
+- `obfuscated.js `
